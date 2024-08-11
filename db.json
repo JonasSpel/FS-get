@@ -1,0 +1,40 @@
+{
+  "teams": [
+    {
+      "name": "U21",
+      "players": [
+        "Liam Prescott", "Noah Sinclair", "Ethan Brooks", "Owen Bennett", "Mason Carter",
+        "Lucas Hayes", "Caleb Sullivan", "Wyatt Harrison", "Connor Walsh", "Nathaniel Greene",
+        "Dylan Whitaker", "Hunter Dawson", "Gavin Reid", "Blake Montgomery", "Austin Lang",
+        "Tyler McKenzie", "Jaxon Ford", "Isaiah Matthews", "Cameron Ross", "Logan Barrett"
+      ]
+    },
+    {
+      "name": "U18",
+      "players": [
+        "Aiden Clarke", "Benjamin Foster", "Chase Harper", "Grayson Turner", "Jace Stevens",
+        "Cooper Mitchell", "Parker Anderson", "Carter Lane", "Nolan Price", "Brayden Collins",
+        "Sawyer Brooks", "Ashton Reed", "Hudson Cooper", "Emmett Franklin", "Declan Wade",
+        "Miles Griffin", "Brooks Chandler", "Ryder Mason", "Elliott Warren", "Easton Holt"
+      ]
+    },
+    {
+      "name": "U16",
+      "players": [
+        "Jackson Lee", "Finn Adams", "Sebastian Scott", "Julian Harper", "Leo Peterson",
+        "Maxwell Rivers", "Theo Ellis", "Hayden Wallace", "Elliot Spencer", "Cole Armstrong",
+        "Rowan Jennings", "Beckett Hughes", "Landon Knight", "Tate Benson", "Rhett Baldwin",
+        "Silas Erickson", "Reed Chambers", "Graham Norton", "Spencer Lowe", "Drew Bishop"
+      ]
+    },
+    {
+      "name": "U14",
+      "players": [
+        "Kaden Fisher", "Riley Morgan", "Zachary Brooks", "Braxton Young", "Tucker Reid",
+        "Bentley Clarke", "Corbin Walker", "Dawson Hayes", "Easton Rogers", "Grady Barnes",
+        "Knox Wells", "Jasper Holden", "Remy Porter", "Sullivan Greene", "Wilder Blake",
+        "Weston Cole", "Gibson Lawson", "Boden Scott", "Sterling White", "Tristan Kane"
+      ]
+    }
+  ]
+}
