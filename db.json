@@ -3,37 +3,276 @@
     {
       "name": "U21",
       "players": [
-        "Liam Prescott", "Noah Sinclair", "Ethan Brooks", "Owen Bennett", "Mason Carter",
-        "Lucas Hayes", "Caleb Sullivan", "Wyatt Harrison", "Connor Walsh", "Nathaniel Greene",
-        "Dylan Whitaker", "Hunter Dawson", "Gavin Reid", "Blake Montgomery", "Austin Lang",
-        "Tyler McKenzie", "Jaxon Ford", "Isaiah Matthews", "Cameron Ross", "Logan Barrett"
+        {
+          "name": "Liam Prescott",
+          "position": "Striker",
+          "age": 20
+        },
+        {
+          "name": "Noah Sinclair",
+          "position": "Midfield",
+          "age": 19
+        },
+        {
+          "name": "Ethan Brooks",
+          "position": "Defender",
+          "age": 21
+        },
+        {
+          "name": "Owen Bennett",
+          "position": "Goalkeeper",
+          "age": 20
+        },
+        {
+          "name": "Mason Carter",
+          "position": "Midfield",
+          "age": 18
+        },
+        {
+          "name": "Lucas Hayes",
+          "position": "Defender",
+          "age": 19
+        },
+        {
+          "name": "Caleb Sullivan",
+          "position": "Striker",
+          "age": 21
+        },
+        {
+          "name": "Wyatt Harrison",
+          "position": "Midfield",
+          "age": 20
+        },
+        {
+          "name": "Connor Walsh",
+          "position": "Defender",
+          "age": 19
+        },
+        {
+          "name": "Nathaniel Greene",
+          "position": "Goalkeeper",
+          "age": 20
+        }
       ]
     },
     {
       "name": "U18",
       "players": [
-        "Aiden Clarke", "Benjamin Foster", "Chase Harper", "Grayson Turner", "Jace Stevens",
-        "Cooper Mitchell", "Parker Anderson", "Carter Lane", "Nolan Price", "Brayden Collins",
-        "Sawyer Brooks", "Ashton Reed", "Hudson Cooper", "Emmett Franklin", "Declan Wade",
-        "Miles Griffin", "Brooks Chandler", "Ryder Mason", "Elliott Warren", "Easton Holt"
+        {
+          "name": "Aiden Foster",
+          "position": "Striker",
+          "age": 17
+        },
+        {
+          "name": "Cameron Murphy",
+          "position": "Midfield",
+          "age": 16
+        },
+        {
+          "name": "Ryan Holt",
+          "position": "Defender",
+          "age": 18
+        },
+        {
+          "name": "Brandon Stewart",
+          "position": "Goalkeeper",
+          "age": 17
+        },
+        {
+          "name": "Justin Cooper",
+          "position": "Midfield",
+          "age": 17
+        },
+        {
+          "name": "Kyle Phillips",
+          "position": "Defender",
+          "age": 16
+        },
+        {
+          "name": "Sean Ward",
+          "position": "Striker",
+          "age": 18
+        },
+        {
+          "name": "Alex Grant",
+          "position": "Midfield",
+          "age": 17
+        },
+        {
+          "name": "Trevor Ross",
+          "position": "Defender",
+          "age": 16
+        },
+        {
+          "name": "Evan Hughes",
+          "position": "Goalkeeper",
+          "age": 17
+        }
       ]
     },
     {
       "name": "U16",
       "players": [
-        "Jackson Lee", "Finn Adams", "Sebastian Scott", "Julian Harper", "Leo Peterson",
-        "Maxwell Rivers", "Theo Ellis", "Hayden Wallace", "Elliot Spencer", "Cole Armstrong",
-        "Rowan Jennings", "Beckett Hughes", "Landon Knight", "Tate Benson", "Rhett Baldwin",
-        "Silas Erickson", "Reed Chambers", "Graham Norton", "Spencer Lowe", "Drew Bishop"
+        {
+          "name": "Jordan Parker",
+          "position": "Striker",
+          "age": 15
+        },
+        {
+          "name": "Tyler Martin",
+          "position": "Midfield",
+          "age": 14
+        },
+        {
+          "name": "Nicholas Kelly",
+          "position": "Defender",
+          "age": 16
+        },
+        {
+          "name": "Aaron Price",
+          "position": "Goalkeeper",
+          "age": 15
+        },
+        {
+          "name": "Blake Howard",
+          "position": "Midfield",
+          "age": 15
+        },
+        {
+          "name": "Nathan Lee",
+          "position": "Defender",
+          "age": 14
+        },
+        {
+          "name": "Dylan Patterson",
+          "position": "Striker",
+          "age": 16
+        },
+        {
+          "name": "Carter James",
+          "position": "Midfield",
+          "age": 15
+        },
+        {
+          "name": "Gavin Mitchell",
+          "position": "Defender",
+          "age": 14
+        },
+        {
+          "name": "Logan Perry",
+          "position": "Goalkeeper",
+          "age": 15
+        }
       ]
     },
     {
       "name": "U14",
       "players": [
-        "Kaden Fisher", "Riley Morgan", "Zachary Brooks", "Braxton Young", "Tucker Reid",
-        "Bentley Clarke", "Corbin Walker", "Dawson Hayes", "Easton Rogers", "Grady Barnes",
-        "Knox Wells", "Jasper Holden", "Remy Porter", "Sullivan Greene", "Wilder Blake",
-        "Weston Cole", "Gibson Lawson", "Boden Scott", "Sterling White", "Tristan Kane"
+        {
+          "name": "Elijah Brooks",
+          "position": "Striker",
+          "age": 13
+        },
+        {
+          "name": "Mason Gray",
+          "position": "Midfield",
+          "age": 12
+        },
+        {
+          "name": "Brady Ford",
+          "position": "Defender",
+          "age": 14
+        },
+        {
+          "name": "Micah Jenkins",
+          "position": "Goalkeeper",
+          "age": 13
+        },
+        {
+          "name": "Jayden Wright",
+          "position": "Midfield",
+          "age": 13
+        },
+        {
+          "name": "Austin Morgan",
+          "position": "Defender",
+          "age": 12
+        },
+        {
+          "name": "Zachary Cook",
+          "position": "Striker",
+          "age": 14
+        },
+        {
+          "name": "Tristan Bell",
+          "position": "Midfield",
+          "age": 13
+        },
+        {
+          "name": "Cody Bailey",
+          "position": "Defender",
+          "age": 12
+        },
+        {
+          "name": "Eric Patterson",
+          "position": "Goalkeeper",
+          "age": 13
+        }
+      ]
+    },
+    {
+      "name": "U12",
+      "players": [
+        {
+          "name": "Oliver Reed",
+          "position": "Striker",
+          "age": 11
+        },
+        {
+          "name": "Ethan Hayes",
+          "position": "Midfield",
+          "age": 10
+        },
+        {
+          "name": "Landon Scott",
+          "position": "Defender",
+          "age": 12
+        },
+        {
+          "name": "Jack Peterson",
+          "position": "Goalkeeper",
+          "age": 11
+        },
+        {
+          "name": "Henry Bennett",
+          "position": "Midfield",
+          "age": 11
+        },
+        {
+          "name": "Grayson Torres",
+          "position": "Defender",
+          "age": 10
+        },
+        {
+          "name": "Isaiah Ramirez",
+          "position": "Striker",
+          "age": 12
+        },
+        {
+          "name": "Samuel Flores",
+          "position": "Midfield",
+          "age": 11
+        },
+        {
+          "name": "Benjamin Nelson",
+          "position": "Defender",
+          "age": 10
+        },
+        {
+          "name": "Joshua Evans",
+          "position": "Goalkeeper",
+          "age": 11
+        }
       ]
     }
   ]
